@@ -7,6 +7,12 @@ body {
   /* The html and body elements cannot have any padding or margin. */
 }
 
+
+h1 {
+  font-size: 160%;
+  line-height: 200%;
+}
+
 /* Wrapper for page content to push down footer */
 #wrap {
   min-height: 100%;
@@ -34,6 +40,7 @@ body {
 }
 .container .credit {
   margin: 20px 0;
+  text-align: right;
 }
 
 #footer > .container {
